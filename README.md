@@ -1,13 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000" />
 
-<h1 align="center">Maria Clara 👋🏻</h1>
+<h1 align="center">Olá, meu nome é Maria Clara 👋🏻</h1>
 
 <p align="center">
-  Welcome to my profile
+  Seja bem-vindo ao meu perfil
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" />
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
